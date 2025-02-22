@@ -1,0 +1,45 @@
+.Container-Header {
+  margin: 0;
+  padding: 0;
+}
+
+.Container-Produto {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 15px;
+}
+
+.Produtos {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.pizza {
+  width: 110px;
+  text-align: center;
+}
+
+.calzone {
+  width: 140px;
+}
+
+.macarrao {
+  width: 170px;
+}
+
+.Bebidas {
+  width: 110px;
+}
+
+h1 {
+  font-size: 15px;
+}
+
+.pizza-doce {
+  width: 110px;
+}
